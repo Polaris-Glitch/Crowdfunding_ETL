@@ -23,6 +23,6 @@ Create Crowdfunding Database:
 Design an Entity-Relationship Diagram (ERD) based on CSV files. Save the database schema as crowdfunding_db_schema.sql and create the crowdfunding_db PostgreSQL database. Import CSV files into corresponding SQL tables.
 
 Project Done by -
-Shraddha Mehta
-Hannah McPherson
+Shraddha Mehta,
+Hannah McPherson,
 Gustavo Gutierrez
